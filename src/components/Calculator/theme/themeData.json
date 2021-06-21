@@ -17,6 +17,7 @@
             "calcInputs": {
                 "height": "5em",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "marginTop": "1rem",
                 "background": "transparent",
                 "fontSize": "2.6em",
@@ -28,6 +29,7 @@
                 "background": "transparent",
                 "height": "35%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "text": "#FFFFFF",
                 "shadow": "none",
                 "marginbottom": "0",
@@ -94,6 +96,7 @@
             "calcInputs": {
                 "height": "5em",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "marginTop": "1rem",
                 "background": "transparent",
                 "fontSize": "2.4rem",
@@ -105,6 +108,7 @@
                 "background": "transparent",
                 "height": "35%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "text": "#FFFFFF",
                 "shadow": "none",
                 "marginbottom": "0",
@@ -175,6 +179,7 @@
             "calcInputs": {
                 "height": "22%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "marginTop": "4rem",
                 "background": "#f1f6ff",
                 "fontSize": "2.2em",
@@ -185,6 +190,7 @@
             "calcResult": {
                 "background": "#f1f6ff",
                 "height": "100%",
+                "minHeightLarge": "2em",
                 "minHeight": "2em",
                 "text": "#621a8f",
                 "shadow": "none",
@@ -256,6 +262,7 @@
             "calcInputs": {
                 "height": "27%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "marginTop": "3rem",
                 "background": "#0B0301",
                 "fontSize": "1.8em",
@@ -267,6 +274,7 @@
                 "background": "#0B0301",
                 "height": "50%",
                 "minHeight": "3em",
+                "minHeightLarge": "3em",
                 "text": "#E79206",
                 "shadow": "none",
                 "marginbottom": "1rem",
@@ -338,6 +346,7 @@
             "calcInputs": {
                 "height": "5em",
                 "minHeight": "2.2em",
+                "minHeightLarge": "2.2em",
                 "marginTop": "1rem",
                 "background": "transparent",
                 "fontSize": "1.8em",
@@ -349,6 +358,7 @@
                 "background": "transparent",
                 "height": "35%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "text": "#FFFFFF",
                 "shadow": "none",
                 "marginbottom": "1rem",
@@ -418,7 +428,8 @@
             },
             "calcInputs": {
                 "height": "25%",
-                "minHeight": "2.6em",
+                "minHeight": "2em",
+                "minHeightLarge": "2.6em",
                 "marginTop": "3rem",
                 "background": "#860665",
                 "fontSize": "2.2em",
@@ -429,7 +440,8 @@
             "calcResult": {
                 "background": "#860665",
                 "height": "35%",
-                "minHeight": "2.6em",
+                "minHeight": "2em",
+                "minHeightLarge": "2.6em",
                 "text": "#0AA7AC",
                 "shadow": "0 .05rem .1rem rgba(255,255,255,.4)",
                 "marginbottom": "0rem",
@@ -497,6 +509,7 @@
             "calcInputs": {
                 "height": "10%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "marginTop": "2rem",
                 "background": "transparent",
                 "fontSize": "2.4em",
@@ -508,6 +521,7 @@
                 "background": "transparent",
                 "height": "35%",
                 "minHeight": "2em",
+                "minHeightLarge": "2em",
                 "text": "#FFFFFF",
                 "shadow": "none",
                 "marginbottom": "0",

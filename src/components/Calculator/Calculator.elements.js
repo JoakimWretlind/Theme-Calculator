@@ -46,6 +46,9 @@ export const CalcInputs = styled.div`
     font-family: ${({ theme }) => theme.font};
     box-shadow: ${({ theme }) => theme.calcInputs.shadow};
     text-shadow: ${({ theme }) => theme.calcInputs.textShadow};
+    @media screen and (min-width: 415px){
+         min-height: ${({ theme }) => theme.calcInputs.minHeightLarge};
+    }
 `;
 
 export const CalcResult = styled.div`
@@ -65,6 +68,9 @@ export const CalcResult = styled.div`
     box-shadow: ${({ theme }) => theme.calcResult.shadow};
     margin-bottom: ${({ theme }) => theme.calcResult.marginbottom};
     text-shadow: ${({ theme }) => theme.calcResult.textShadow};
+    @media screen and (min-width: 415px){
+         min-height: ${({ theme }) => theme.calcInputs.minHeightLarge};
+    }
 `;
 
 export const ButtonGrid = styled.div`
